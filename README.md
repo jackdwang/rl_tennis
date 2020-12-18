@@ -11,7 +11,7 @@ The environment is episodic, and it is considered solved when an average score o
 # Getting Started
 To install all the necessary dependencies for this project, run: !pip -q install ./python
 
-The environment can also be downloaded by following the instructions [here]((https://github.com/udacity/deep-reinforcement-learning#dependencies). It also contains information on how to set up the environment locally.
+The environment can also be downloaded by following the instructions [here](https://github.com/udacity/deep-reinforcement-learning#dependencies). It also contains information on how to set up the environment locally.
 
 # Run the Code
 To run the code for training the agent, open the jupyter notebook named learning.ipynb and run all cells. The training automatically terminates when the reward requirement is reached for the agent. It will save the model output as checkpoint_actor.pth and checkpoint_critic.pth.
